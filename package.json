@@ -11,9 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^1.0.1",
-    "hardhat": "^2.10.0"
+    "hardhat": "^2.10.0",
+    "swarm-js": "^0.1.40",
+    "web3-bzz": "^1.7.4"
   },
   "dependencies": {
-    "@openzeppelin/contracts-upgradeable": "^4.7.0"
+    "@openzeppelin/contracts-upgradeable": "^4.7.0",
+    "got": "^11.8.5"
   }
 }
